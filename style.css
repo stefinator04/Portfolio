@@ -1,0 +1,8 @@
+body {
+  background-color: #fbf5de;
+  background-image: url('https://www.transparenttextures.com/patterns/cream-dust.png'); /* update with your file path or URL */
+  background-repeat: repeat;
+  background-size: auto; /* or use 'cover' or 'contain' if it’s a large texture */
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
